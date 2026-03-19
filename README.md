@@ -36,15 +36,33 @@ switch2.
 •	Another wire taken through a P.V.C pipe and middle point of SPDT switch 2 is connected to one end of the lamp holder.
 •  Another end of lamp holder is connected to neutral line.
 •  Screw the accessories on the board and switch on the supply.
-•  Circuit is tested for all possible combination of switch positions.
+•  Circuit is tested for all possible combination of switch positions. 
+
+Theory:
+
+<img width="1067" height="1280" alt="image" src="https://github.com/user-attachments/assets/b0952b43-d3e2-452b-8fae-fad3697cbd9e" />
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: 
+
+CIRCUIT DIAGRAM: 
+
+<img width="1080" height="436" alt="image" src="https://github.com/user-attachments/assets/3a575403-7269-4189-ade5-6803f8fc8e40" />
+
 Tabulation:1
+
+<img width="830" height="1280" alt="image" src="https://github.com/user-attachments/assets/3ef423ec-1152-4f75-ba0e-3fd42e31aba6" />
+
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection: 
+
+CIRCUIT DIAGRAM:
+
+<img width="1080" height="472" alt="image" src="https://github.com/user-attachments/assets/d6c477e6-ca36-4711-92f1-a6bf7cde6263" />
 
 Tabulation:2
+
+<img width="784" height="1280" alt="image" src="https://github.com/user-attachments/assets/4d6fa4bb-6166-4d1b-9027-0c88110dee06" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
